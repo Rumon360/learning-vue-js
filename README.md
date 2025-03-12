@@ -1,4 +1,4 @@
-# Learning Vue.js - 2024
+# Learning Vue.js - 2025
 
 ## Main Branch:
 
