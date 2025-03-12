@@ -4,3 +4,7 @@
 
 - Explored the **Options API** and the fundamentals of **Vue.js**.
 - Built a **Todo App** by following the **Traversy Media Crash Course** on YouTube.
+
+## Job Listing Branch:
+
+- [WIP] Creating a job listing app
